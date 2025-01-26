@@ -4,6 +4,7 @@
 - [Algelin I e II Aviv Censor](https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9)
 - [Aulas de Algelin I Possani](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [Apostila GETUSP (opcional)](https://www.getussp.com.br/arquivos/algebra.pdf)
+- [Livro open source de Algelin da UFRGS](https://www.ufrgs.br/reamat/AlgebraLinear/livro/main.html)
 
 # Exercício selecionados
 Obs: arquivos no diretório `listas/`
